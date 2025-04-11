@@ -1,7 +1,7 @@
 CapripoxDirectory="/path/to/project/"
 ExtractReadDirectory="/path/to/project/Illumina/directories/"
 DB="/path/to/Kraken/minikraken_20171101_8GB_dustmasked"
-FileLocations="MetadataNew_Master.csv"
+FileLocations="MetadataNew_Example.csv"
 
 ## Capripox Taxonomic ID
 Capripox________Parent="10265"
