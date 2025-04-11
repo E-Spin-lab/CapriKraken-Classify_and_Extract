@@ -1,6 +1,6 @@
-CapripoxDirectory="/lustrefs/path/to/project/"
-ExtractReadDirectory="/lustrefs/path/to/project/Illumina/directories/"
-DB="/lustrefs/path/to/Kraken/minikraken_20171101_8GB_dustmasked"
+CapripoxDirectory="/path/to/project/"
+ExtractReadDirectory="/path/to/project/Illumina/directories/"
+DB="/path/to/Kraken/minikraken_20171101_8GB_dustmasked"
 FileLocations="MetadataNew_Master.csv"
 
 ## Capripox Taxonomic ID
